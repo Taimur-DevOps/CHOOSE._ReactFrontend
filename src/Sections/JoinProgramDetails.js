@@ -6,7 +6,7 @@ const JoinProgramDetails = () => {
       <div className="max-w-[1138px] h-[641px] mx-auto  ">
         <div className="flex flex-col gap-[36px] flex-start">
         <div className="flex items-center justify-center py-[30px]"> 
-          <h1 className="text-[40px] leading-[60px] font-semibold">Why join this Program?</h1>
+          <h1 className="text-[40px] leading-[60px] font-semibold">Why <span className='text-primary underline'>join</span>  this Program?</h1>
         </div>
         <div className="flex flex-col h-[384px]">
           
