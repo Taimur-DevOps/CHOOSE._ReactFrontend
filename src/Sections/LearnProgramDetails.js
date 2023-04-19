@@ -18,7 +18,7 @@ const cards=[
       <div className="max-w-[1138px]  mx-auto  ">
         <div className="flex flex-col  flex-start">
           <div className="flex items-center justify-center py-[30px]">
-            <h1 className="text-[40px] leading-[60px] font-semibold">What will you learn in this Program?</h1>
+            <h1 className="text-[40px] leading-[60px] font-semibold">What will you <span className='text-primary underline'>learn</span> in this Program?</h1>
           </div>
 
        {   cards.map((item)=>{
