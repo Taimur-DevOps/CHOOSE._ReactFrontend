@@ -2,15 +2,15 @@ import React from "react";
 
 const JoinProgramDetails = () => {
   return (
-    <div className="  bg-gray-300">
-      <div className="max-w-[1140px] h-[641px] mx-auto border ">
+    <div className="  bg-slate-100">
+      <div className="max-w-[1138px] h-[641px] mx-auto  ">
         <div className="flex flex-col gap-[36px] flex-start">
-        <div className="flex items-center justify-center"> 
+        <div className="flex items-center justify-center py-[30px]"> 
           <h1 className="text-[40px] leading-[60px] font-semibold">Why join this Program?</h1>
         </div>
-        <div className="flex flex-col h-[454px]">
+        <div className="flex flex-col h-[384px]">
           
-          <p className="text-[20px] leading-[32px]  ">
+          <p className="text-[20px] leading-[32px]  text-justify">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
             mollis rhoncus dolor, id tempor est tincidunt ac. Integer semper
             metus at convallis mollis. Maecenas non dui lectus. Vestibulum
