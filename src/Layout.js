@@ -1,6 +1,8 @@
 import React from 'react'
 import Navbar from './Components/Navbar'
 import HeroSection from './Sections/HeroSection'
+import Stats from './Sections/Stats'
+import JoinProgramDetails from './Sections/JoinProgramDetails'
 
 const Container = ({children, bgColor}) => { 
     return (
@@ -19,8 +21,12 @@ const Layout = () => {
         <Navbar />
         </Container>
 
-
         <HeroSection />
+        <Stats/>
+        <JoinProgramDetails />
+      
+
+
         
       
     </div>
