@@ -30,6 +30,10 @@ const cards=[
             );
           })
         }
+
+        <div className="my-4 flex justify-center items-center " >
+          <button className='bg-primary text-white font-semibold rounded-[8px] px-[28px] pt-[14px] pb-[15px] py-2 text-[32px] leading-[42.5px]'>ENROll NOW @ $50</button>
+        </div>
          
 
           
